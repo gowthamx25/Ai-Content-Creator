@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+openai
+pillow
+pytesseract
+reportlab
+python-multipart
