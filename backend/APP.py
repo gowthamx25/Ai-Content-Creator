@@ -51,7 +51,7 @@ app.add_middleware(
 # NOTE: Using the key provided in the last prompt's code block
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key=os.getenv("OPENROUTER_API_KEY", "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"),
+    api_key=os.getenv("OPENROUTER_API_KEY", "Open_ai_api"),
 )
 
 # --- MODEL DEFINITIONS ---
