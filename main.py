@@ -32,7 +32,7 @@ app.add_middleware(
 # ----------------------------
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key="++++++++++++++++++++++++++++++++++++++++++++++++++++++",
 )
 
 MODEL = "qwen/qwen-max:free"
